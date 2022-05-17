@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdiaziiz Arrale</h1>
+<h1 align="center"> I'm Abdiaziiz Arrale</h1>
 <h3 align="center">A Full Stack devoloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdiaziiz-arrale&label=Profile%20views&color=0e75b6&style=flat" alt="abdiaziiz-arrale" /> </p>
