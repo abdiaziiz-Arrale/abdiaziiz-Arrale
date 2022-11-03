@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter Mobile App**
 
-- 👨‍💻 All of my projects are available at [https://abdiaziiz-arrale.web.app/project](https://abdiaziiz-arrale.web.app/project)
+- 👨‍💻 All of my projects are available at [https://abdiaziiz-arrale.netlify.app/projects](https://abdiaziiz-arrale.netlify.app/)
 
 - 📫 How to reach me **abdiaziizarrale@gmail.com**
 
