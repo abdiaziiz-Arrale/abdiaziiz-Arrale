@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdiaziizarrale" target="blank"><img src="https://img.shields.io/twitter/follow/abdiaziizarrale?logo=twitter&style=for-the-badge" alt="abdiaziizarrale" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter Mobile App**
+- 🌱 I’m currently Working **Flutter Mobile App**
 
 - 👨‍💻 All of my projects are available at [https://abdiaziiz-arrale.netlify.app/projects](https://abdiaziiz-arrale.netlify.app/)
 
